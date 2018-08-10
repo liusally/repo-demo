@@ -7,6 +7,9 @@
     "dev": "webpack-dev-server --mode development --progress --hot --open",
     "build": "webpack --mode production --progress"
   },
+  "files": [
+    "src/**.vue"
+  ],
   "keywords": [],
   "author": "",
   "license": "ISC",
