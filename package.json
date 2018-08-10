@@ -7,7 +7,6 @@
     "dev": "webpack-dev-server --mode development --progress --hot --open",
     "build": "webpack --mode production --progress"
   },
-  "private": true,
   "files": [
     "src/**.vue",
     ".babelrc"
